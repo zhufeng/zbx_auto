@@ -1,3 +1,7 @@
+# zabbix test url and account
+zbx-login1.ini
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
