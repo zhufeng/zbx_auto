@@ -1,5 +1,6 @@
 # zabbix test url and account
 zbx-login1.ini
+output.txt
 
 
 # Byte-compiled / optimized / DLL files
